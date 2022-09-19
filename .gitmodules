@@ -8,3 +8,8 @@
 	url = https://github.com/hriebl/ggnuplot
 	shallow = true
 	registered = true
+[submodule "lmls"]
+	path = lmls
+	url = https://github.com/hriebl/lmls
+	shallow = true
+	registered = true

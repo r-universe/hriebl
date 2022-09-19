@@ -2,5 +2,9 @@
   {
     "package": "ggnuplot",
     "oncran": true
+  },
+  {
+    "package": "lmls",
+    "oncran": true
   }
 ]
